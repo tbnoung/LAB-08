@@ -146,6 +146,7 @@ public class TryCatch
      }
  }
 ```
+![](https://github.com/tbnoung/LAB-08/blob/master/8.2.PNG)
 ###2.
 ``` csharp
 using System;
